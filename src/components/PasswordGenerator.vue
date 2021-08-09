@@ -56,7 +56,7 @@
 </script>
 
 <style>
-    @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Raleway&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400&family=Raleway&display=swap');
 
     .card {
         background-color:#7E4CFF;
@@ -77,7 +77,7 @@
     p{
         font-family:'Lato',sans-serif;
         font-weight: 400;
-        font-size: 1em;
+        font-size: 1.2em;
         color: #fff;
     }
 
