@@ -1,15 +1,15 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <PasswordGenerator></PasswordGenerator>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import PasswordGenerator from './components/PasswordGenerator.vue'
+
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    PasswordGenerator
   }
 }
 </script>
@@ -24,3 +24,5 @@ export default {
   margin-top: 60px;
 }
 </style>
+
+<!-- https://www.youtube.com/watch?v=6ZnnrgmDlkM -->
